@@ -50,6 +50,6 @@ I enjoy watching football, listening to 🎶 music, and experimenting in the �
 ---
 
 ## 📌 Featured Projects
+- [📊 Energy Cost Calculator](https://github.com/your-username/nigeria-electrification-trends)  
 - [📊 Nigeria Electrification Trends](https://github.com/your-username/nigeria-electrification-trends)  
-- [⚡ PyPSA-Nigeria Scenarios](https://github.com/your-username/pypsa-nigeria-scenarios)  
-- [📂 Reproducible Energy Workflows](https://github.com/your-username/energy-snakemake-pipeline)  
+- [⚡ PyPSA-Nigeria Scenarios](https://github.com/your-username/pypsa-nigeria-scenarios)  ---- Working on it
